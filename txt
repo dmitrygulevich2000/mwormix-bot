@@ -1,0 +1,6 @@
+https://docs.docker.com/engine/reference/builder/
+https://hub.docker.com/_/golang
+https://docs.docker.com/language/golang/build-images/
+
+docker run --name mwb -v mwormix-searches:/mwormix-bot/data mwormix-bot
+docker start
